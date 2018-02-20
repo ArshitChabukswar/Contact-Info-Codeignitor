@@ -17,4 +17,6 @@ Step 4) Copy the database_model.php file from this repository into the Model fol
 
 Step 5) Copy the files add.php,contacts.php,login.php,register.php,remove.php  from this repository into the View folder of Codeignitor
 
-Step 6)Run the Web App is the browser :)
+Step 6) Import the files intern.sql and contacts.sql into your database.
+
+Step 7)Run the Web App is the browser :)
