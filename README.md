@@ -1,4 +1,4 @@
-# Contact-Info-Codeignitor
+# CodeIgnitor Web APP
 Registration-Login-Contacts Page using Codeignitor
 Hello!
 Welcome to my Github!
